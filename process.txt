@@ -9,3 +9,8 @@
 -- methodology
   -- agile
   -- scrum
+-- T |
+   I  |
+   M  |---------------------------------> cost
+   E  |
+      |
